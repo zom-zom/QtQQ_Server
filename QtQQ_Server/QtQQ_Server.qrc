@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QtQQ_Server">
+        <file>boyImage.png</file>
+    </qresource>
+</RCC>
